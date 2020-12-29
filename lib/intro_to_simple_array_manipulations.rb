@@ -4,4 +4,4 @@ array.push(next)
 
 array.unshift("Bob")
 
-array.unshift( )
+array.unshift(" ")
